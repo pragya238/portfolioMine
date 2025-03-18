@@ -18,6 +18,7 @@
 
 html{
     font-size: 60%;
+    overflow: static;
 
 body{
     background: var(--bg-color);
